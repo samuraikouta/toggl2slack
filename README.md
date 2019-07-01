@@ -1,6 +1,7 @@
 # toggl2slack
 - チーム開発でTogglを使用している方が対象です。
 - Togglのdailyとweeklyの合計時間をslackに通知するjsです。
+- 「<togglのapi> <slack webhookのurl>」の箇所を変更してください。
 - スクリプトをGoogle App Scriptに貼り付けて、トリガー設定してお使いください。
 
 ## toggl api
